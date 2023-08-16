@@ -1,0 +1,26 @@
+.table-design{
+    border-color: aqua;
+    padding-top: 10;
+    color: rgb(240, 65, 2); 
+    text-align: center; 
+    border-color: black  ; 
+    padding-bottom: 1%;
+    border: 3px solid black;
+    margin: 50%;
+    
+}
+table,td,tr,th{
+    border-color: aqua;
+    padding-top: 10;
+    color: rgb(240, 65, 2); 
+    text-align: center; 
+    border-color: black  ; 
+    padding-bottom: 1%;
+    border: 3px solid black;
+    margin: 50%;
+    border-collapse:collapse;
+
+}
+th{
+    background-color: aqua;
+}

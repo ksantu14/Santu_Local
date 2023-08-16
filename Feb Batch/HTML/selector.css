@@ -1,0 +1,65 @@
+/* p{  */
+    /* color: aqua; */
+    /* font-size: 3rem; */
+/* } */
+#headerid{
+    color: blueviolet;
+    font-size: xx-large;
+}
+
+.design{
+    color: brown;
+    font-size: larger;
+}
+
+/* div tag mdhil sglyach p elements la lagu hoto  */
+div p{   
+    color: chartreuse;
+    font-size: x-large;
+}
+
+/*ii--child selectors  */
+
+div > h4{
+       color: coral;
+}
+
+
+/* iii--sibling selector */
+
+div +h2{
+    background-color: darkgreen;
+}
+
+
+/* general sibling selector  */
+
+div ~ h4{
+    background-color: blue;
+}
+
+
+/* 3--Pseudo selectors  */
+.classtag{
+    background-color: chartreuse;
+    width: 100px;
+}
+
+pre:hover{
+    background-color: aquamarine;
+
+}
+
+input:focus{
+    background-color: coral;
+}
+
+div:first-child{
+    background-color: brown;
+}
+
+h3::first-letter{
+    color: rgb(54, 249, 0);
+    font-size: xx-large;
+}
+

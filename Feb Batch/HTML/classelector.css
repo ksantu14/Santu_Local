@@ -1,0 +1,23 @@
+.main{
+    text-decoration-color: aqua;
+    color: rgb(8, 200, 239);
+    padding-left: 50px;
+    text-decoration-color: aqua; 
+    color: rgb(8, 200, 239);
+    border: dotted;
+    border-bottom: blue;
+    border-block-width: 359px;
+    border: 5px dotted lightcoral;
+    height: 100px;
+    padding: 8px;
+    width: 98px;
+    margin-top: 50px;
+    margin-left: 50px;
+    background: cyan;
+}
+
+.image{
+    opacity: o;
+    background-color: aqua;
+    padding-left: 30%;
+}

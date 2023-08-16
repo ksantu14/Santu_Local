@@ -1,0 +1,19 @@
+.text1{
+    background-color: aqua;
+}
+
+
+.text2{
+    background-color: aqua;
+    display: none;
+    
+}
+.text3{
+    background-color: aquamarine;
+    display: inline;
+}
+
+.text4{
+    background-color: aqua;
+    display: block;
+}

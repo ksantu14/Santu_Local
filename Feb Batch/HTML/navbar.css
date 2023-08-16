@@ -1,0 +1,57 @@
+.main a{
+    text-decoration: none;
+    float: left;
+    margin-right: 5%;
+}
+.main{
+    text-decoration: none;
+    background-color: aqua;
+    padding: 18px 20px;
+    word-spacing: 150px;
+    font-weight: bold;
+    overflow: hidden; 
+
+}
+    
+
+
+.dropdown-btn{
+    
+    background-color: forestgreen;
+    text-decoration: none;
+    padding: 4px 8px;
+    color: white;
+    border: none;
+    margin-left: 10px;
+    
+    
+}
+.dropdown{
+    background-color: chartreuse;
+    padding-top: 9px;
+    margin-left: 139px;
+    text-align: center;
+    margin-bottom: 2px;
+    width: 55px;
+    position: absolute;
+    display: none;
+    right: 303;
+
+}
+
+.dropmenu:hover .dropdown {
+    display: block;
+
+}
+.dropdown a:hover {
+    background-color: tomato;
+    width: 55px;
+}
+a.hm:hover{
+    background-color: rgb(219, 165, 16);
+    width: 55px;
+}
+a.cont-us:hover{
+    background-color: rgb(219, 165, 16);
+    width: 55px;
+}
